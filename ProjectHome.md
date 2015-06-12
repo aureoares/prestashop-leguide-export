@@ -1,0 +1,1 @@
+This is a Prestashop 1.5 module to export products to LeGuide's CSV import format.
